@@ -1,6 +1,6 @@
 # Financial Computing
 
-This is my assignments for the "Financial Computing" module offered to masters students at Brunel University London. The course was comprised of two terms. The first term was to build up an understanding of the C programming language and introduct multi-threading using OpenMP. The second term involved more advanced C functionality as well as multi-processing using MPI. Below is a break down of the code created over the duration of this module:
+This is my assignments for the "Financial Computing" module offered to masters students at Brunel University London. The course was comprised of two terms. The first term was to build up an understanding of the C programming language and introduce multi-threading using OpenMP. The second term involved more advanced C functionality as well as multi-processing using MPI. Below is a break down of the code created over the duration of this module:
 
 ## Assignment 1 
 
